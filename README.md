@@ -2,7 +2,7 @@
 
 - 🔭 BSc. Computational Social Science<br/>
 - 🏥 MSc. Artificial Intelligence for Medicine / Medical Research (Current)<br/>
-- 🌱 Studying social phenomena through statistical and mathematical models<br/>  
+- 🌱 Applying machine learning and AI to biomedical data to advance diagnostics, treatment strategies, and personalised medicine<br/>  
 - 🤔 I’m looking for help with...coding!<br/>
 
 ## 🌐 Socials:
