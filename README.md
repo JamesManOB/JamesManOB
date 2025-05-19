@@ -1,9 +1,9 @@
 ## Hi, I'm James 👋
 
-- 🔭 Computational Social Science Student at UCD<br/>
+- 🔭 BSc. Computational Social Science<br/>
+- 🏥 MSc. Artificial Intelligence for Medicine / Medical Research (Current)<br/>
 - 🌱 Studying social phenomena through statistical and mathematical models<br/>  
 - 🤔 I’m looking for help with...coding!<br/>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-mcclatchie-648878221/) 
